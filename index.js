@@ -22,11 +22,12 @@ function whisper(string){
     //console.log.restore()
 
 function logShout(string){
+logShout('hello')
 
   string.toUpperCase
 
   console.log(string)
 
-logShout('hello')
+
 
 }
