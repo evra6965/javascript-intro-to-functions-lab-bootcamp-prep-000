@@ -22,7 +22,7 @@ function whisper(string){
     //console.log.restore()
 function logShout(string)
 
-  console.log(string) == uppercase}
+  console.log(string) === uppercase}
 
 
 
