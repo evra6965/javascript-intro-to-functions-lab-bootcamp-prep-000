@@ -23,8 +23,9 @@ function whisper(string){
 
 function logShout(string){
 
-  var spy(console, 'log').andCallThrough()
+  string.toUpperCase
 
-  logShout('hello')
+  console.log(string)
 
-  console.log.restore() }
+
+}
