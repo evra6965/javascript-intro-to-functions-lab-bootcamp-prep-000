@@ -21,20 +21,7 @@ function whisper(string){
 
     //console.log.restore()
 
-function logShout(string){
-  console.log(string)
 
-
-
-logShout('hello')
-
-  string.toUpperCase
-
-  console.log(string)
-
-
-
-}
 
 
 //describe('sayHiToGrandma(string)', function() {
